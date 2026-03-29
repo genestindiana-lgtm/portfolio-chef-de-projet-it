@@ -1,0 +1,45 @@
+
+
+# Festival JdR : Refonte CMS & Formulaire d'inscription JdR
+Noms changés par souci de discrétion. 
+
+## Résumé :
+
+| | |
+|--|--|
+| **Problème** | Gestion manuelle des inscriptions JdR sur tableur Excel, aucun réfenrecement SEO, formulaire hébergé sur autre site |
+| **Solution** | Un formulaire crée via Symfony devenu un site à part avec un panneau admin pour les utilisateurs non-technique, migration du formulaire, rédaction d'une stratégie SEO |
+| **Résultat** | **2e position sur Google Belgique** sur les mots-clés cibles · Livré dans les délais |
+
+
+## Ce que ce projet démontre :
+
+- **Recueil des besoins** : consultation digitale sur la V1, identification des points de friction et des besoins > traduction en exigences fonctionnelles
+- **Cahier des charges complet** : objectifs, cibles utilisateurs, périmètre, exclusions, contraintes
+- **Spécifications fonctionnelles** : intégration d'un panneau admin complet, accessibilité, formulaire d'inscription en ligne à destination des maîtres du jeu et des exposant·es
+- **User Stories** avec critères d'acceptance (format Agile)
+- **Conformité RGPD** : minimisation des données dès la conception (pseudo uniquement pour les joueurs) propre à la Belgique 
+- **Conduite du changement** : guide de rédaction web remis
+- **Gestion des risques** : 6 risques identifiés avec stratégie de mitigation
+- **Bilan post-projet** chiffré avec KPIs et enseignements
+
+
+
+## Livrables disponibles dans ce dossier :
+
+| Document | Contenu |
+|----------|---------|
+| [Cahier des charges](./cahier-des-charges.md) | Document de référence complet : contexte, objectifs, cibles, exigences fonctionnelles, contraintes, recette |
+| [Guide de rédaction web](./guide-redaction-web.md) | Livrable remis aux rédacteurs lors de la session de formation |
+| [Checklist SEO](./checklist-seo.md) | Outil opérationnel intégré au panneau d'administration |
+| [Bilan post-projet](./bilan.md) | KPIs, enseignements, évolutions prévues pour la v2 (fin 2026) |
+
+
+
+## Stack & outils projet ;
+
+`Symfony` · `Notion (roadmap)` · `Google Drive & recettage ` · `Google Search Console` · `SEO longue traîne`
+
+
+
+*→ [Retour au portfolio principal](../README.md)*
