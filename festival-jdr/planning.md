@@ -48,7 +48,7 @@ essentielles et à permettre des itérations rapides.
 | Mois | Activité principale |
 |--------|---------------------|
 | M1 | Cadrage et rédaction du cahier des charges |
-| M2 | Productions des premiers contenus |
-| M3 | Création de la documentation interne |
-| M4 | Tests, corrections et ajustements |
-| M5 | Mise en ligne et rédaction du bilan |
+| M3 | Productions des premiers contenus |
+| M4 | Création de la documentation interne |
+| M5 | Tests, corrections et ajustements |
+| M6 | Mise en ligne et rédaction du bilan |
