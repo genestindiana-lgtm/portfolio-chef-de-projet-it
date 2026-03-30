@@ -31,6 +31,10 @@ Noms changés par souci de discrétion.
 |----------|---------|
 | [Cahier des charges](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/cahier-des-charges.md) | Document de référence complet : contexte, objectifs, cibles, exigences fonctionnelles, contraintes, recette |
 | [Guide Rédaction SEO](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/guide-redaction-web.md) | Recommandation sur la rédaction SEO et Checklist |
+| [User Stories](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/user-stories.md) | Point de vues des utilisateurs finaux |
+| [Planning](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/planning.md) | Priorisation des tâches au sein de l'équipe sur 6 mois calendaires |
+| [Recettage](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/plan-de-recette.md) | Ensemble des tests fonctionnels mis en place |
+| [Ex : Ticket Bug](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/exemple-ticket-bug.md) | Exemple d'un ticket de bug que j'ai remonté aux développeurs |
 | [Bilan post-projet](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/bilan.md) | KPIs, enseignements, évolutions prévues pour la v2 (fin 2026) |
 
 
