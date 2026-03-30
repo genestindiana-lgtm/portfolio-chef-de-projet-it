@@ -1,7 +1,6 @@
 # portfolio-chef-de-projet-it
 Bonjour ! Je suis un futur chef de projet en IT /AMOA. Admis à l'IPI Paris pour la rentrée de septembre 2026, je me sers de ce dépôt dans le but de présenter mes projets passés et futurs. Dedans vous trouverez les cahiers des charges, les documents de suivis, de planification et de reporting KPI. 
 Je suis aussi en pleine recherche d'entreprise pour mon alternance de 2 ans. Pour en savoir plus, vous pouvez me suivre sur [LinkedIn](https://www.linkedin.com/in/indiana-genest-futur-chef-de-projet-it/)
-Je souhaite agrémenter ce portfolio au fur et à mesures des projets rencontrés au cours de mon mastère. 
 
 Note : par souci de discrétion, les noms des intervenant·es ont été changé. Je précise que mon rôle a été celui de chargé de projet web / consultant digital.  
 
