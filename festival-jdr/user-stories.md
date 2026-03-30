@@ -72,7 +72,9 @@ Les user stories ci-dessous ont été définies afin de formaliser les besoins f
 ## US06 – Participer au concours de figurines 
 
 **En tant que** amateur de peinture sur figurine
+
 **Je veux** participer au concours de peinture sur figurine
+
 **Afin de** remporter un prix, et de recevoir des conseils auprès du jury
 
 ### Critères d’acceptation
