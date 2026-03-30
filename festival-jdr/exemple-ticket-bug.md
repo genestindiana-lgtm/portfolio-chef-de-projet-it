@@ -1,6 +1,6 @@
 # Exemple de ticket remonté à l'équipe développement 
 L'objectif est de montrer comment en tant que (futur) chef de projet IT, je fais remonter un bug que j'ai vu lors de mes tests fonctionnels. 
-Par souci de discrétion, les noms ont été changés. 
+Par souci de discrétion, les noms ont été changés. J'ai choisis de ne pas prendre de capture d'écran du bug par souci de discrétion pour mon client. 
 
 **Type :** Bug  
 **Priorité : ** Basse
