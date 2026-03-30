@@ -3,7 +3,7 @@ L'objectif est de montrer comment en tant que (futur) chef de projet IT, je fais
 Par souci de discrétion, les noms ont été changés. J'ai choisis de ne pas prendre de capture d'écran du bug par souci de discrétion pour mon client. 
 
 **Type :** Bug  
-**Priorité : ** Basse
+**Priorité :** Basse
 ## Description du bug
 Sur l'article "infos pratiques", la partie des liens menant aux réseaux sociaux (TikTok et Twitter) présente 2 URLs débordant de la boîte. 
 
