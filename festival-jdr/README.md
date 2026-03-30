@@ -29,9 +29,9 @@ Noms changés par souci de discrétion.
 
 | Document | Contenu |
 |----------|---------|
-| [Cahier des charges](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/cahier-des-charges-FestivalJdR.md) | Document de référence complet : contexte, objectifs, cibles, exigences fonctionnelles, contraintes, recette |
-| [Guide Rédaction SEO](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/guide-redaction-web-FestivalJdR.md) | Recommandation sur la rédaction SEO et Checklist |
-| [Bilan post-projet](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/bilan-FestivalJdR.md) | KPIs, enseignements, évolutions prévues pour la v2 (fin 2026) |
+| [Cahier des charges](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/cahier-des-charges.md) | Document de référence complet : contexte, objectifs, cibles, exigences fonctionnelles, contraintes, recette |
+| [Guide Rédaction SEO](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/guide-redaction-web.md) | Recommandation sur la rédaction SEO et Checklist |
+| [Bilan post-projet](https://github.com/genestindiana-lgtm/portfolio-chef-de-projet-it/blob/main/festival-jdr/bilan.md) | KPIs, enseignements, évolutions prévues pour la v2 (fin 2026) |
 
 
 
