@@ -9,7 +9,7 @@ Noms changés par souci de discrétion.
 |--|--|
 | **Problème** | Gestion manuelle des inscriptions JdR sur tableur Excel, aucun référencement SEO, formulaire hébergé sur autre site |
 | **Solution** | Un formulaire crée via Symfony devenu un site à part avec un panneau admin pour les utilisateurs non-technique, migration du formulaire, rédaction d'une stratégie SEO |
-| **Résultat** | **2e position sur Google Belgique** sur les mots-clés cibles · Livré dans les délais |
+| **Résultat** | **2e position sur Google dans son pays d'origine** sur les mots-clés cibles · Livré dans les délais |
 
 
 ## Ce que ce projet démontre :
