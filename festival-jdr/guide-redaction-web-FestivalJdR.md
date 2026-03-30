@@ -54,7 +54,7 @@ Nom de la personne – domaine d’activité
 
 
 ### Exemple :
-Machin Truc – Auteur de bande dessinée
+Tournesol Dupont – Auteur de bande dessinée
 
 
 ### Contenu attendu dans la méta-description :
@@ -64,11 +64,11 @@ La méta-description doit inclure :
 - sa spécialité ou sa notoriété
 - une œuvre connue si applicable
 
-### Exemple ;
-Machin Truc au Festival JdR, rencontrez l’auteur de OEUVRE à LIEU DATE
+### Exemple :
+Tournesol Dupont au Festival JdR, rencontrez l’auteur de OEUVRE à LIEU DATE
 
 
-## Longueur minimum des articles
+## Longueur minimum des articles :
 
 Un article web doit contenir au minimum : 300 mots
 
@@ -79,7 +79,7 @@ Cela permet :
 
 
 
-## Règles typographiques importantes !
+## Règles typographiques importantes 
 
 ### À éviter dans les métadonnées :
 
@@ -92,33 +92,23 @@ Chaque caractère compte dans les limites imposées par les moteurs de recherche
 ##Check list SEO
 
 ### Contenu :
-- [ ] Le titre contient le mot-clé principal en début de phrase
-- [ ] Le premier paragraphe mentionne le sujet clairement
-- [ ] L'article fait au moins 300 mots
-- [ ] La date et le lieu sont rappelés en accroche 
+- [X] Le titre contient le mot-clé principal en début de phrase
+- [X] Le premier paragraphe mentionne le sujet clairement
+- [X] L'article fait au moins 300 mots
+- [X] La date et le lieu sont rappelés en accroche 
 
 ### Rappel :
-- [ ] **Méta-titre** : renseigné, 50-60 caractères
-- [ ] **Méta-description** : renseignée, 150-160 caractères
-- [ ] **Slug** : propre et lisible (ex: `/jeux-de-role/fantasy`)
-- [ ] **Image principale** : uploadée avec une description alt
-- [ ] **Catégorie** : sélectionnée
+- **Méta-titre** : renseigné, 50-60 caractères
+- **Méta-description** : renseignée, 150-160 caractères
+- **Slug** : propre et lisible (ex: `/jeux-de-role/fantasy`)
+- **Image principale** : uploadée avec une description alt
+- **Catégorie** : sélectionnée
 
-### Avant de cliquer "Publier" :
-- [ ] Aperçu vérifié sur mobile
-- [ ] Orthographe vérifiée
-- [ ] Liens internes ajoutés (vers d'autres pages du site si pertinent)
+### Avant de cliquer sur "Publier" :
+- [x] Aperçu vérifié sur mobile
+- [x] Orthographe vérifiée
+- [x] Liens internes ajoutés (vers d'autres pages du site si pertinent)
 
-
-
-##  Longueurs de référence :
-
-| Élément | Minimum | Maximum | Idéal |
-|---------|---------|---------|-------|
-| Méta-titre | 30 car. | 60 car. | 50-55 car. |
-| Méta-description | 120 car. | 160 car. | 150-155 car. |
-| Article | 300 mots | — | 500-800 mots |
-| URL slug | — | 5 mots | 3-4 mots |
 
 
 
