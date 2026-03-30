@@ -1,8 +1,6 @@
 # Contexte du projet — Festival JdR
 
-Les noms ont été changé par souci de discrétion / Je ne suis pas le développeur derrière ce site.
-
-## Contexte :
+Les noms ont été changé par souci de discrétion. Je précise que mon rôle a été celui de chargé de projet web / consultant digital. 
 
 Dans le cadre d'un festival de fantasy avec une section dédiée aux jeux de société, un formulaire d'inscription à des tables de jeux de rôle a été mis en place.
 
@@ -27,7 +25,7 @@ Ce formulaire a ensuite évolué vers un site web à part entière créé via Sy
   - L'hébergement d'images
   - Des spécificités SEO (méta-titre, méta-description, etc.)
   - Une vue d'ensemble sur les tables de jeux de rôle encore disponibles
-- Porter le formulaire initialement hébergé sur le précédent site **Chouffins & Légendes** vers le nouveau site Festival JdR
+- Porter le formulaire initialement hébergé sur le précédent site vers le nouveau site Festival JdR
 - Valoriser Festival JdR pour son **grand retour en tant que festival fin 2026**
 - Améliorer le **référencement SEO** du site
 - Enseigner à un public peu habitué au numérique à **rédiger pour le web**
@@ -58,13 +56,13 @@ Ce formulaire a ensuite évolué vers un site web à part entière créé via Sy
 
 ## Contraintes :
 
-- Équipe réduite et **bénévole**
+- Équipe réduite
 - Mots-clés difficiles à mettre en avant — trop génériques
-- Site web devant sortir vite : **±5 mois**
+- Site web devant sortir vite : **±6 mois calendaire**
 
 
 
 ## Exclusions :
 
 - Paiement en ligne
--  Espace personnalisé pour les Maîtres du Jeu
+- Espace personnalisé pour les Maîtres du Jeu
