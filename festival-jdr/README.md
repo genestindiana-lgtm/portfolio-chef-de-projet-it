@@ -18,7 +18,7 @@ Noms changés par souci de discrétion.
 - **Cahier des charges complet** : objectifs, cibles utilisateurs, périmètre, exclusions, contraintes
 - **Spécifications fonctionnelles** : intégration d'un panneau admin complet, accessibilité, formulaire d'inscription en ligne à destination des maîtres du jeu et des exposant·es
 - **User Stories** avec critères d'acceptance (format Agile)
-- **Conformité RGPD** : minimisation des données dès la conception (pseudo uniquement pour les joueurs) propre à la Belgique 
+- **Conformité RGPD** : minimisation des données dès la conception (pseudo uniquement pour les joueurs) propre à son pays d'origine 
 - **Conduite du changement** : guide de rédaction web remis
 - **Gestion des risques** : 6 risques identifiés avec stratégie de mitigation
 - **Bilan post-projet** chiffré avec KPIs et enseignements
