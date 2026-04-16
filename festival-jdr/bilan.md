@@ -28,10 +28,10 @@ Les noms ont été changé par souci de discrétion. Je ne suis pas le développ
 
 ## Ce qui a bien fonctionné :
 
-**1. La priorisation : **  
+**1. La priorisation :**  
 L'équipe est petite : avoir clairement établis les fonctionnalités prioritaires du site (formulaire, intégration d'un panneau admin, etc) a permis de livrer une première version fluide sur laquelle les (futurs) visiteurs peuvent naviguer et se perdre (cela fait partie de la volonté d'une des parties prenantes)
 
-**2. Minimisation des données **  
+**2. Minimisation des données :**  
 Hormis pour les exposants (éditeurs, auteurs/illustrateurs, boutiques, etc) souhaitant venir à Festival JdR, aucune donnée comme le numéro de téléphone, le mail, etc. n'a été récoltée. Le formulaire d'inscription aux parties de JdR demande un pseudo. 
 Cela respecte la RGPD.
 
